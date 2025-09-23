@@ -1,4 +1,4 @@
-## <div align="center">Hello <img alt="hi_inosuke" width="32px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZqaGZqMmg4eXg3M3M0NHFrbXJsOWl1OTcwN2dlMHIwejkwczNvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkgfoscTuW84U2Razd/giphy.gif"></img> I'm Barbi Developer 
+## <div align="center">Hello <img alt="hi_inosuke" width="32px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZqaGZqMmg4eXg3M3M0NHFrbXJsOWl1OTcwN2dlMHIwejkwczNvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkgfoscTuW84U2Razd/giphy.gif"></img> I'm Barbi Developer </div> 
 <img align="right"  alt="nezuko" height="250px" src="https://github.com/barbi-dev/utilidades_recursos/blob/main/nezuko.gif"></img> 
  <h3> <img width="25" height="25" alt="storm" src="https://github.com/user-attachments/assets/ecbb2cfc-fa0c-41b6-9f78-0ae039fb811b" />
  Academic Background</h3> 
@@ -12,8 +12,9 @@ About me</h3>
 I have a strong background in **Physics** with a focus on applying mathematics to real-world problems; experienced in **applied statistics** and **multiple regression models** including Panel Data Analysis. I'm also passionate about **scientific programming**, **physics simulations**, and **data analysis**.
 
 
- <h3><img width="28" height="28" alt="tools_sw" src="https://github.com/user-attachments/assets/3dc8bd0d-c048-4e35-94f6-f01ca5be42af"/>&nbsp; Languages and Tools </h3>  
-
+ <h3><img width="25" height="25" alt="tools_sw" src="https://github.com/user-attachments/assets/3dc8bd0d-c048-4e35-94f6-f01ca5be42af"/>&nbsp; Languages and Tools </h3>  
+<div align="center">
+ 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -25,14 +26,21 @@ I have a strong background in **Physics** with a focus on applying mathematics t
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
+</div> 
+
 
 <h3><img width="31" height="31" alt="contact_spock" src="https://github.com/user-attachments/assets/1ebbc971-c686-4d73-98e7-d771b5aaf0f1"/>&nbsp; Contact Me</h3> 
 
+<div align="center">
+ 
 <a href="https://www.instagram.com/barbi_dev_/"> ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.tiktok.com/@barbi_dev"> ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
 <a href="www.linkedin.com/in/barbara-villacis-1o618033"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.facebook.com/solucion.steam.ec"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="wa.me%2F593995548755"> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+
+</div> 
+
 
 <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lxZnBobXl2cTZrd3BtdHl6MjlsYzA2amM2eTA0OXE0YnNsZWNobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5Y64deGahkqwnQCKt/giphy.gif" width="32px">
 
