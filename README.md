@@ -28,10 +28,13 @@ I have a strong background in **Physics** with a focus on applying mathematics t
 
 <h3><img width="31" height="31" alt="contact_spock" src="https://github.com/user-attachments/assets/1ebbc971-c686-4d73-98e7-d771b5aaf0f1"/>&nbsp; Contact Me</h3> 
 
-<img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/fee5b8ef-e6f3-41a8-a1af-4a55015b1896" />
+<a href="https://www.instagram.com/barbi_dev_/"> ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.tiktok.com/@barbi_dev"> ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
+<a href="www.linkedin.com/in/barbara-villacis-1o618033"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.facebook.com/solucion.steam.ec"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="wa.me%2F593995548755"> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lxZnBobXl2cTZrd3BtdHl6MjlsYzA2amM2eTA0OXE0YnNsZWNobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5Y64deGahkqwnQCKt/giphy.gif" width="32px">
-
+<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lxZnBobXl2cTZrd3BtdHl6MjlsYzA2amM2eTA0OXE0YnNsZWNobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5Y64deGahkqwnQCKt/giphy.gif" width="32px">
 
 Png Images Credits: <a href="https://www.flaticon.com/free-icons/trek" title="trek icons">Trek icons created by iconsmind - Flaticon</a>
 
