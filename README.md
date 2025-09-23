@@ -41,8 +41,19 @@ I have a strong background in **Physics** with a focus on applying mathematics t
 
 </div> 
 
+##
 
+<div align="center">
+ 
+ ![barbi-dev github stats](https://github-readme-stats.vercel.app/api?username=barbi-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+</div> 
+
+<div align="center">
+ 
 <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lxZnBobXl2cTZrd3BtdHl6MjlsYzA2amM2eTA0OXE0YnNsZWNobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5Y64deGahkqwnQCKt/giphy.gif" width="32px">
 
-Png Images Credits: <a href="https://www.flaticon.com/free-icons/trek" title="trek icons">Trek icons created by iconsmind - Flaticon</a>
+</div> 
+
+
 
