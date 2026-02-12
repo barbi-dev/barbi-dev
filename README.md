@@ -1,5 +1,5 @@
 ## <h1 align="center"> Hello <img alt="hi_inosuke" width="32px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZqaGZqMmg4eXg3M3M0NHFrbXJsOWl1OTcwN2dlMHIwejkwczNvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkgfoscTuW84U2Razd/giphy.gif"></img> I'm Barbi Developer </h1> 
-<img align="right"  alt="nezuko" height="250px" src="https://github.com/barbi-dev/utilidades_recursos/blob/main/nezuko.gif"></img> 
+
  <h3> <img width="25" height="25" alt="storm" src="https://github.com/user-attachments/assets/ecbb2cfc-fa0c-41b6-9f78-0ae039fb811b" />
  Academic Background</h3> 
  
@@ -34,26 +34,18 @@ I have a strong background in **Physics** with a focus on applying mathematics t
 <div align="center">
  
 <a href="https://www.instagram.com/barbi_dev_/" target="_blank"> ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.tiktok.com/@barbi_dev" target="_blank"> ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
+<a href="https://www.tiktok.com/@barbi.talk" target="_blank"> ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
 <a href="www.linkedin.com/in/barbara-villacis-1o618033" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.facebook.com/solucion.steam.ec" target="_blank"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-<a href="https://api.whatsapp.com/send/?phone=593995548755&text&type=phone_number&app_absent=0" target="_blank"> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-
-</div> 
-
-##
+<a href="https://www.facebook.com/solucion.stem.ec" target="_blank"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://api.whatsapp.com/send/?phone=593987292609&text&type=phone_number&app_absent=0" target="_blank"> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 <div align="center">
- 
- ![barbi-dev github stats](https://github-readme-stats.vercel.app/api?username=barbi-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-</div> 
+<img   alt="nezuko" height="150px" src="https://github.com/barbi-dev/utilidades_recursos/blob/main/nezuko.gif"></img> 
+</div>
 
-<div align="center">
- 
-<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lxZnBobXl2cTZrd3BtdHl6MjlsYzA2amM2eTA0OXE0YnNsZWNobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q5Y64deGahkqwnQCKt/giphy.gif" width="32px">
 
-</div> 
+
 
 
 
